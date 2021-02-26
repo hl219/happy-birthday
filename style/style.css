@@ -133,8 +133,8 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
-  height: 250px;
-  width: 250px;
+  height: 300px;
+  width: 300px;
 }
 
 .baloons img:nth-child(even) {
